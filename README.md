@@ -6,7 +6,7 @@ https://qiita.com/PINTO/items/db3ab44a3e2bcd87f2d8
 # 動作イメージ
 TinyYolo + Neural Compute Stick + RaspberryPi3
 
-![Riders](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/Riders.gif)  ![MultiStick](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/MultiStick.jpeg)
+![Riders](https://github.com/PINTO0309/TinyYolo/tree/master/media/Riders.gif)  ![MultiStick](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/MultiStick.jpeg)
 # 環境
 ・RaspberryPi 3 + Raspbian Stretch
 
