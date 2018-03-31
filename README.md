@@ -59,13 +59,13 @@ $ sudo reboot
 7. リソース一式のダウンロード
 ```
 $ cd ~
-$ git clone https://github.com/PINTO0309/MobileNet-SSD.git
+$ git clone https://github.com/PINTO0309/TinyYolo.git
 ```
 8. USB-WEBカメラ(UVC対応) と Neural Compute Stick をRaspberryPiのUSBポートへ接続(Neural Compute Stickをマルチで使用する場合は電圧が不足するためセルフパワーUSB-Hub必須)
 
 9. RaspberryPiとディスプレイをHDMIケーブルで接続
 
-10. MobileNet-SSDの実行
+10. MultiStick.pyの実行
 ```
 $ cd MobileNet-SSD
 $ python3 MultiStickSSD.py
