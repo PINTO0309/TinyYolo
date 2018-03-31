@@ -74,7 +74,7 @@ $ python3 ./detectionExample/MultiStick.py
 　
 　
  
-# [English] MobileNet-SSD
+# [English] TinyYolo
 Challenge the marginal performance of YoloV2 + Neural Compute Stick + Raspberry Pi
 
 https://qiita.com/PINTO/items/db3ab44a3e2bcd87f2d8
