@@ -67,22 +67,22 @@ $ git clone https://github.com/PINTO0309/TinyYolo.git
 
 10. MultiStick.pyの実行
 ```
-$ cd MobileNet-SSD
-$ python3 MultiStickSSD.py
+$ cd TinyYolo
+$ python3 ./detectionExample/MultiStick.py
 ```
 
 　
 　
  
 # [English] MobileNet-SSD
-Ultra-fast MobileNet-SSD + Neural Compute Stick(NCS) than YoloV2 + Explosion speed by RaspberryPi · Multiple moving object detection with high accuracy
+Challenge the marginal performance of YoloV2 + Neural Compute Stick + Raspberry Pi
 
-https://qiita.com/PINTO/items/b97b3334ed452cb555e2
+https://qiita.com/PINTO/items/db3ab44a3e2bcd87f2d8
 
 # Image of motion
-MobileNet-SSD + Neural Compute Stick + RaspberryPi3 / MultiStick(3 Stick / Hard Motion)
+TinyYolo + Neural Compute Stick + RaspberryPi3
 
-![Riders](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/Riders.gif)  ![MultiStick](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/MultiStick.jpeg)
+![Riders](https://github.com/PINTO0309/TinyYolo/blob/master/media/Riders.gif)  ![MultiStick](https://github.com/PINTO0309/MobileNet-SSD/blob/master/media/MultiStick.jpeg)
 # Environment
 ・RaspberryPi 3 + Raspbian Stretch
 
@@ -135,14 +135,14 @@ $ sudo reboot
 7. Download complete set of resources
 ```
 $ cd ~
-$ git clone https://github.com/PINTO0309/MobileNet-SSD.git
+$ git clone https://github.com/PINTO0309/TinyYolo.git
 ```
 8. Connect USB-WEB camera (UVC compatible) and Neural Compute Stick to RaspberryPi's USB port (self power USB-Hub required due to insufficient voltage when using Neural Compute Stick in multiple)
 
 9. Connect RaspberryPi and display with HDMI cable
 
-10. Running MobileNet-SSD
+10. Running MultiStick.py
 ```
-$ cd MobileNet-SSD
-$ python3 MultiStickSSD.py
+$ cd TinyYolo
+$ python3 ./detectionExample/MultiStick.py
 ```
